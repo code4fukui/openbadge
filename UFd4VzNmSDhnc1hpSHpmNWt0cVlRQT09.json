@@ -1,0 +1,10 @@
+{
+  "@context":"https://w3id.org/openbadges/v2",
+  "id":"https://nlp.netlearning.co.jp/api/v1.0/openbadge/v2/BadgeClass/UFd4VzNmSDhnc1hpSHpmNWt0cVlRQT09",
+  "type":"BadgeClass",
+  "name":"デジタル推進委員",
+  "description":"このバッジの保有者は、デジタル推進委員であることを証明します。\nデジタル推進委員は、デジタル機器・サービスに不慣れな方等に対し、デジタル機器・サービスの利用方法等を教える・サポートする活動を行います。",
+  "image":"https://nlp.netlearning.co.jp/api/v1.0/openbadge/v2/BadgeClass/UFd4VzNmSDhnc1hpSHpmNWt0cVlRQT09/image",
+  "criteria":{"narrative":"デジタル推進委員に任命された者"},
+  "issuer":"https://nlp.netlearning.co.jp/api/v1.0/openbadge/v2/Issuer/Y3RCSStsMTA5dDNrTldFRDVpS2Jodz09"
+}
